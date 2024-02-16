@@ -1,0 +1,4 @@
+#Fri Feb 16 11:03:56 IST 2024
+base.0=/Users/jolly/Desktop/Flutter/Flutter App/FlutterList/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
